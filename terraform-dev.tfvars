@@ -6,7 +6,7 @@ project = "process-reversal"
 
 
 # Name of the DynamoDB Transactions Table
-transactions_table_name = "ProcessPaymentLedger"
+transactions_table_name = "PaymentLedger"
 
 # Name of the DynamoDB Audit Trail Table
-audit_trail_table_name = "ProcessPaymentAuditTrail"
+audit_trail_table_name = "PaymentAuditTrail"
